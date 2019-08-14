@@ -57,7 +57,7 @@ const siteConfig = {
     primaryColor: '#97a00a',
     secondaryColor: '#697007',
   },
-  editUrl : 'https://github.com/BzhLeeon/documentation/', 
+  editUrl : 'https://github.com/BzhLeeon/open/tree/master/docs', 
   translationRecruitingLink : 'https://crowdin.com/project/documentations/',
 
   /* Custom fonts for website */
